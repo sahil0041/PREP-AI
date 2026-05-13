@@ -1,0 +1,879 @@
+
+> interview-practice-app@0.0.0 dev
+> vite --host 0.0.0.0
+
+
+  [32m[1mVITE[22m v5.4.21[39m  [2mready in [0m[1m377[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.1.13:[1m5173[22m/[39m
+[2m[32m  ➜[39m[22m[2m  press [22m[1mh + enter[22m[2m to show help[22m
+[2m3:47:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m3:47:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/RoleSelector.tsx[22m
+[2m3:51:05 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m3:51:05 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:54:0: ERROR: Unexpected end of file
+[2m3:51:05 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:54:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:54:0
+[33m  
+  [33mUnexpected end of file[33m
+  52 |  
+  53 |  export const jobRoles: JobRole[] = [
+  54 |  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:51:05 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:54:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:54:0
+[33m  
+  [33mUnexpected end of file[33m
+  52 |  
+  53 |  export const jobRoles: JobRole[] = [
+  54 |  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:51:05 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:54:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:54:0
+[33m  
+  [33mUnexpected end of file[33m
+  52 |  
+  53 |  export const jobRoles: JobRole[] = [
+  54 |  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:52:04 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m3:52:04 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:112:0: ERROR: Unexpected end of file
+[2m3:52:04 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:112:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:112:0
+[33m  
+  [33mUnexpected end of file[33m
+  110|      ],
+  111|    ),
+  112|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:52:04 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:112:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:112:0
+[33m  
+  [33mUnexpected end of file[33m
+  110|      ],
+  111|    ),
+  112|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:52:04 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:112:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:112:0
+[33m  
+  [33mUnexpected end of file[33m
+  110|      ],
+  111|    ),
+  112|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:53:43 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m3:53:43 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:199:0: ERROR: Unexpected end of file
+[2m3:53:43 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:199:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:199:0
+[33m  
+  [33mUnexpected end of file[33m
+  197|      ],
+  198|    ),
+  199|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:53:43 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:199:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:199:0
+[33m  
+  [33mUnexpected end of file[33m
+  197|      ],
+  198|    ),
+  199|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:53:43 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:199:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:199:0
+[33m  
+  [33mUnexpected end of file[33m
+  197|      ],
+  198|    ),
+  199|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:55:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m3:55:21 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:286:0: ERROR: Unexpected end of file
+[2m3:55:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:286:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:286:0
+[33m  
+  [33mUnexpected end of file[33m
+  284|      ],
+  285|    ),
+  286|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:55:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:286:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:286:0
+[33m  
+  [33mUnexpected end of file[33m
+  284|      ],
+  285|    ),
+  286|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:55:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:286:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:286:0
+[33m  
+  [33mUnexpected end of file[33m
+  284|      ],
+  285|    ),
+  286|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:57:06 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m3:57:06 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:373:0: ERROR: Unexpected end of file
+[2m3:57:06 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:373:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:373:0
+[33m  
+  [33mUnexpected end of file[33m
+  371|      ],
+  372|    ),
+  373|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:57:07 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:373:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:373:0
+[33m  
+  [33mUnexpected end of file[33m
+  371|      ],
+  372|    ),
+  373|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:57:07 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:373:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:373:0
+[33m  
+  [33mUnexpected end of file[33m
+  371|      ],
+  372|    ),
+  373|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:57:07 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:373:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:373:0
+[33m  
+  [33mUnexpected end of file[33m
+  371|      ],
+  372|    ),
+  373|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:58:27 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m3:58:27 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:460:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:460:0
+[33m  
+  [33mUnexpected end of file[33m
+  458|      ],
+  459|    ),
+  460|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:58:27 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:460:0: ERROR: Unexpected end of file
+[2m3:58:27 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:460:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:460:0
+[33m  
+  [33mUnexpected end of file[33m
+  458|      ],
+  459|    ),
+  460|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m3:58:27 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:460:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:460:0
+[33m  
+  [33mUnexpected end of file[33m
+  458|      ],
+  459|    ),
+  460|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:00:21 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:00:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:576:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:576:0
+[33m  
+  [33mUnexpected end of file[33m
+  574|      ],
+  575|    ),
+  576|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:00:21 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:576:0: ERROR: Unexpected end of file
+[2m4:00:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:576:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:576:0
+[33m  
+  [33mUnexpected end of file[33m
+  574|      ],
+  575|    ),
+  576|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:00:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:576:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:576:0
+[33m  
+  [33mUnexpected end of file[33m
+  574|      ],
+  575|    ),
+  576|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:00:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:576:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:576:0
+[33m  
+  [33mUnexpected end of file[33m
+  574|      ],
+  575|    ),
+  576|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:02:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:02:08 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:692:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:692:0
+[33m  
+  [33mUnexpected end of file[33m
+  690|      ],
+  691|    ),
+  692|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:02:08 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:692:0: ERROR: Unexpected end of file
+[2m4:02:08 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:692:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:692:0
+[33m  
+  [33mUnexpected end of file[33m
+  690|      ],
+  691|    ),
+  692|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:02:08 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:692:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:692:0
+[33m  
+  [33mUnexpected end of file[33m
+  690|      ],
+  691|    ),
+  692|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:03:57 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:03:57 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:808:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:808:0
+[33m  
+  [33mUnexpected end of file[33m
+  806|      ],
+  807|    ),
+  808|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:03:57 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:808:0: ERROR: Unexpected end of file
+[2m4:03:57 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:808:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:808:0
+[33m  
+  [33mUnexpected end of file[33m
+  806|      ],
+  807|    ),
+  808|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:03:57 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:808:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:808:0
+[33m  
+  [33mUnexpected end of file[33m
+  806|      ],
+  807|    ),
+  808|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:05:44 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:05:45 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:924:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:924:0
+[33m  
+  [33mUnexpected end of file[33m
+  922|      ],
+  923|    ),
+  924|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:05:45 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:924:0: ERROR: Unexpected end of file
+[2m4:05:45 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:924:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:924:0
+[33m  
+  [33mUnexpected end of file[33m
+  922|      ],
+  923|    ),
+  924|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:05:45 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:924:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:924:0
+[33m  
+  [33mUnexpected end of file[33m
+  922|      ],
+  923|    ),
+  924|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:07:31 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:07:31 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1040:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:1040:0
+[33m  
+  [33mUnexpected end of file[33m
+  1038|      ],
+  1039|    ),
+  1040|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:07:31 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1040:0: ERROR: Unexpected end of file
+[2m4:07:31 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1040:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:1040:0
+[33m  
+  [33mUnexpected end of file[33m
+  1038|      ],
+  1039|    ),
+  1040|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:07:32 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1040:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:1040:0
+[33m  
+  [33mUnexpected end of file[33m
+  1038|      ],
+  1039|    ),
+  1040|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:07:32 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1040:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:1040:0
+[33m  
+  [33mUnexpected end of file[33m
+  1038|      ],
+  1039|    ),
+  1040|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:09:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:09:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1156:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:1156:0
+[33m  
+  [33mUnexpected end of file[33m
+  1154|      ],
+  1155|    ),
+  1156|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:09:21 pm[22m [31m[1m[vite][22m[39m Pre-transform error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1156:0: ERROR: Unexpected end of file
+[2m4:09:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1156:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:1156:0
+[33m  
+  [33mUnexpected end of file[33m
+  1154|      ],
+  1155|    ),
+  1156|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:09:21 pm[22m [31m[1m[vite][22m[39m [31mInternal server error: Transform failed with 1 error:
+E:/college pr/src/data/questionBank.ts:1156:0: ERROR: Unexpected end of file[39m
+  Plugin: [35mvite:esbuild[39m
+  File: [36mE:/college pr/src/data/questionBank.ts[39m:1156:0
+[33m  
+  [33mUnexpected end of file[33m
+  1154|      ],
+  1155|    ),
+  1156|  
+     |  ^
+  [39m
+      at failureErrorWithLog (E:\college pr\node_modules\esbuild\lib\main.js:1472:15)
+      at E:\college pr\node_modules\esbuild\lib\main.js:755:50
+      at responseCallbacks.<computed> (E:\college pr\node_modules\esbuild\lib\main.js:622:9)
+      at handleIncomingPacket (E:\college pr\node_modules\esbuild\lib\main.js:677:12)
+      at Socket.readFromStdout (E:\college pr\node_modules\esbuild\lib\main.js:600:7)
+      at Socket.emit (node:events:508:28)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Readable.push (node:internal/streams/readable:390:5)
+      at Pipe.onStreamRead (node:internal/stream_base_commons:189:23)
+[2m4:11:08 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:11:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:11:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/RoleSelector.tsx[22m
+[2m4:11:20 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/App.tsx[22m
+[2m4:32:28 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeUpload.tsx[22m
+[2m4:33:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/Header.tsx[22m
+[2m4:33:45 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ResumeUpload.tsx[22m
+[2m4:34:49 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/RoleSelector.tsx[22m
+[2m4:35:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ProgressBar.tsx[22m
+[2m4:35:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/QuestionCard.tsx[22m
+[2m4:35:59 pm[22m [36m[1m[vite][22m[39m [32mhmr update [39m[2m/src/components/ReviewPanel.tsx[22m
+^C^C
